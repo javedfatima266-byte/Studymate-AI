@@ -1,0 +1,9 @@
+{
+  "name": "StudyMate AI",
+  "description": "An intelligent study companion powered by Gemini AI featuring AI tutoring, automated quiz & flashcard generation, smart summarization, personalized study planning, and gamified progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
