@@ -1,56 +1,78 @@
-# StudyMate AI 📚🤖
+# 📚 StudyMate AI 🤖
 
 An AI-powered study platform designed to help students learn smarter, practice effectively, and organize their study materials in one place.
 
+## 🚀 Live Demo
+
+👉 [Try StudyMate AI](https://studymate-ai-3173.ai.studio)
+
 ## ✨ Features
 
-* 🤖 **AI Tutor** — Get interactive help with your questions and study topics.
-* 🧠 **AI Learning Modes** — Learn with different tutoring approaches, including Socratic Mentor, Exam Coach, and Feynman Simplifier.
-* 📝 **Quiz Generator** — Generate practice quizzes and test your knowledge.
-* 📄 **Smart Summarizer** — Turn study material into concise, useful summaries.
-* 📊 **Student Dashboard** — Track study activity, quizzes, goals, and recent learning activity.
-* 📚 **Study Library** — Organize and access saved study materials.
-* 🌙 **Dark Mode** — Study comfortably with light and dark themes.
-* 📱 **Responsive Design** — Designed to work across desktop and mobile screens.
+### 🤖 AI Tutor
+Get interactive AI-powered help with questions, concepts, and study topics.
 
-## 🛠️ Tech Stack
+### 🧠 AI Learning Modes
+Choose different learning approaches:
+- Socratic Mentor
+- Exam Coach
+- Feynman Simplifier
+- STEM Solver
+- Code Assistant
 
-* React
-* TypeScript
-* Vite
-* Node.js
-* AI-powered learning features
-* GitHub
+### 📝 Quiz Generator
+Generate practice quizzes based on your study topics and test your knowledge.
 
-## 📁 Project Structure
+### 📄 Smart Summarizer
+Turn study materials into concise and useful summaries.
 
-```text
-Studymate-AI/
-├── assets/
-├── server/
-├── src/
-├── .env.example
-├── index.html
-├── package.json
-├── server.ts
-├── tsconfig.json
-└── vite.config.ts
-```
+### 📊 Student Dashboard
+Track your study activity, quizzes, goals, and recent learning progress.
 
-## 🎯 Project Goal
+### 📚 Study Library
+Organize and access your saved study materials, notes, summaries, and learning resources.
 
-StudyMate AI aims to provide students with an all-in-one learning environment where they can understand concepts, summarize study material, practice through quizzes, and monitor their learning progress.
+### 📱 Responsive Design
+Designed to work across desktop, tablet, and mobile devices.
 
-## 🚀 Project Status
+## 🛠️ Technologies
 
-StudyMate AI is an actively developed project. New features, improvements, and bug fixes are being added as development continues.
+- React
+- TypeScript
+- Vite
+- Google AI Studio
+- Gemini AI
+- HTML5
+- CSS
+- JavaScript
+- GitHub
+
+## 🎯 Purpose
+
+StudyMate AI was created to provide students with an all-in-one AI-powered learning environment where they can:
+
+- Understand difficult concepts
+- Practice through quizzes
+- Summarize study materials
+- Organize learning resources
+- Track their study progress
+
+## 🔗 Project Links
+
+**Live Application:**  
+https://studymate-ai-3173.ai.studio
+
+**GitHub Repository:**  
+https://github.com/javedfatima266-byte/Studymate-AI
+
+## 📌 Project Status
+
+🟢 Published and actively being improved.
 
 ## 👩‍💻 Developer
 
 **Fatima Javed**
 
 BS Computer Science Student
-Aspiring Full-Stack Developer
 
 ---
 
